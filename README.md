@@ -7,5 +7,5 @@ The [Arctic Monkeys](https://www.arcticmonkeys.com/), soccer, and NFTs!
 ## Some Of My Highlighted Projects
 
 
-![Daredevil](https://i.annihil.us/u/prod/marvel/i/mg/3/70/619e63883aa03/clean.jpg)
+[Daredevil Social Network Graph](https://quoc-huynh.github.io/Daredevil_Graph/)
 
