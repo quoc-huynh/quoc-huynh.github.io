@@ -9,19 +9,32 @@ I am from East Side San Jose, California and am a first generation student. Some
 
 ## Some Of My Highlighted Projects
 
+<br> </br>
 
-![Test](Images/dd.gif)
 <h2 align = "center">
     <a href="https://quoc-huynh.github.io/Daredevil_Graph/">Daredevil Social Network Graph</a> 
 </h2>
 
-![Test](Images/pitch.gif)
-<h2 align = "center">
-    <a href="https://github.com/quoc-huynh/PersonalProjects/tree/main/Baseball_Pitches">Predicting Baseball Pitches Group Project</a> 
-</h2>
+![Test](Images/dd.gif)
 
-![Test](Images/blog.gif)
+
+<br> </br>
+
 <h2 align = "center">
     <a href="https://qarcticcircle.wordpress.com/">Personal Blog</a> 
 </h2>
+
+![Test](Images/blog.gif)
+
+
+
+<br> </br>
+
+<h2 align = "center">
+    <a href="https://github.com/quoc-huynh/PersonalProjects/tree/main/Baseball_Pitches">Predicting Baseball Pitches Group Project</a>
+</h2>
+
+![Test](Images/pitch.gif)
+
+
      
