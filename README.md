@@ -9,7 +9,7 @@ I am from East Side San Jose, California and am a first generation student. Some
 
 ## Some Of My Highlighted Projects
 
-<br> </br>
+<br> 
 
 <h2 align = "center">
     <a href="https://quoc-huynh.github.io/Daredevil_Graph/">Daredevil Social Network Graph</a> 
@@ -18,7 +18,7 @@ I am from East Side San Jose, California and am a first generation student. Some
 ![Test](Images/dd.gif)
 
 
-<br> </br>
+<br> 
 
 <h2 align = "center">
     <a href="https://qarcticcircle.wordpress.com/">Personal Blog</a> 
@@ -28,8 +28,7 @@ I am from East Side San Jose, California and am a first generation student. Some
 
 
 
-<br> </br>
-
+<br> 
 <h2 align = "center">
     <a href="https://github.com/quoc-huynh/PersonalProjects/tree/main/Baseball_Pitches">Predicting Baseball Pitches Group Project</a>
 </h2>
