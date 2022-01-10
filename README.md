@@ -8,7 +8,6 @@ I am from East Side San Jose, California and am a first generation student. Belo
   <img width="150" height="150" src= "Images/family.JPG">
   <img width="150" height="150" src="Images/ebs.jpg">
   <img width="150" height="150" src="Images/data140.jpg">
-  <img width="150" height="150" src="Images/Polaroid Originals (1).PNG">
 </p>
 
 <br>
