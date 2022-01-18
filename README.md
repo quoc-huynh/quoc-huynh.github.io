@@ -26,10 +26,10 @@ I am from East Side San Jose, California and am a first generation student. Belo
 <br> 
 
 <h3 align = "center">
-    <a href="https://github.com/quoc-huynh/PersonalProjects/tree/main/Veve_Comic_Books">Veve's Digital Comic Market Analysis</a> 
+    <a href="https://github.com/quoc-huynh/PersonalProjects/tree/main/Veve_Comic_Books">Veve's Digital Comic Market Analysis (In Development)</a> 
 </h3>
 
-![Test](Images/veve.gif)
+![Test](Images/Veve.gif)
 
 <br> 
 
