@@ -50,6 +50,7 @@ I am from East Side San Jose, California and am a first generation student. Belo
 <br>
 
 <p align="center">
-  You can also check out my other projects in my Personal Project Respo in my github!
+  You can also check out my other projects at my
+  <a href="https://github.com/quoc-huynh/PersonalProjects">github!</a>
 </p>
      
