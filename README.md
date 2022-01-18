@@ -1,13 +1,12 @@
 ## Welcome to my page!
 Hi! Thank you for checking out my page. My name is Quoc Huynh and I am a 3rd year student at UC Berkeley studying Data Science with an emphasis in Economics.
-I am from East Side San Jose, California and am a first generation student. Below are some of my highlighted projects that you can check out! Some of my personal interests include [Marvel's Daredevil](https://www.marvel.com/characters/daredevil-matthew-murdock), [The Arctic Monkeys](https://www.arcticmonkeys.com/), [Soccer](https://www.liverpoolfc.com/), and [NFTs](https://www.veve.me/)! 
+I am from East Side San Jose, California and am a first generation student. Below are some of my highlighted projects that you can check out! Some of my personal interests include [Marvel's Daredevil](https://www.marvel.com/characters/daredevil-matthew-murdock), [The Arctic Monkeys](https://www.arcticmonkeys.com/), [Soccer](https://www.liverpoolfc.com/), and [art](https://www.claudemonetgallery.org/the-complete-works.html?pageno=1)! 
 
-<p>I would also like to use this space to give thanks and show my appreciation to these people who have helped me through my journey through college and in life.</p>
+<p>Feel free to contact me @ quoc.huynh@berkeley.edu for anything! I love meeting and talking to people :)</p>
 
 <p align="center">
-  <img width="150" height="150" src= "Images/family.JPG">
-  <img width="150" height="150" src="Images/ebs.jpg">
-  <img width="150" height="150" src="Images/data140.jpg">
+  <img width="300" height="450" src= "Images/wallpaper.jpg">
+
 </p>
 
 <br>
