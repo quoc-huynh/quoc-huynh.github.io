@@ -1,5 +1,5 @@
 ## Welcome to my page!
-Hi! Thank you for checking out my page. My name is Quoc Huynh and I am a 3rd year student at UC Berkeley studying Data Science with an emphasis in Economics.
+Hi! Thank you for checking out my page. My name is Quoc Huynh and I am a 4th year student at UC Berkeley studying Data Science with an emphasis in Economics.
 I am from East Side San Jose, California and am a first generation student. Below are some of my highlighted projects that you can check out! Some of my personal interests include [Marvel's Daredevil](https://www.marvel.com/characters/daredevil-matthew-murdock), [The Arctic Monkeys](https://www.arcticmonkeys.com/), [Soccer](https://www.liverpoolfc.com/), and [Art](https://www.claudemonetgallery.org/the-complete-works.html?pageno=1)! 
 
 <p>Feel free to contact me @ quoc.huynh@berkeley.edu for anything! I love meeting and talking to people :)</p>
