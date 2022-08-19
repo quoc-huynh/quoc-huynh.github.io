@@ -44,6 +44,22 @@ li a {
 li a:hover {
   background-color: white;
 }
+  .parent {
+        position: relative;
+        top: 100;
+        left: 0;
+      }
+.image1 {
+        position: relative;
+        top: 0;
+        left: 0;
+        border: 1px solid #000000;
+      }
+ .image2 {
+        position: absolute;
+        top: 200px;
+        left: 100px;
+        border: 1px solid #000000;
 </style>
 </head>
 <body>
@@ -58,12 +74,15 @@ li a:hover {
 </ul>
 <p class="p1"> A COLLECTION OF COLOR PALETTES OF AM AND CLAIRO ALBUMS </p>
 
-<p align="center">
-  <img width="300" height="450" src= "am.jpg">
-  <img width="300" height="100" src= "palette_AM.jpg">
-  <img width="300" height="450" src= "/Images/fwn.jpg">
-  <img width="300" height="450" src= "/Images/palette_fwn.jpg">
-</p>
+<div class="parent">
+<img class="image1" src="/Images/fwn.jpg" />
+<img class="image2" src="/Images/palette_fwn.jpg" />
+</div>
+  
+ <div class="parent">
+<img class="image1" src="/Images/fwn.jpg" />
+<img class="image2" src="/Images/palette_fwn.jpg" />
+</div>
 </i>
 </body>
 </html>
