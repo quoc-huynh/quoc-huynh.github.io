@@ -16,6 +16,18 @@ I am from East Side San Jose, California and am a first generation student. Belo
 <br> 
 
 <h3 align = "center">
+    <a href="https://quoc-huynh.github.io/amclairo/index.html">Color Palettes Of Arctic Monkeys and Clairo</a> 
+</h3>
+
+![Test](Images/am.jpg)
+
+
+<br> 
+
+
+<br> 
+
+<h3 align = "center">
     <a href="https://quoc-huynh.github.io/Daredevil_Graph/">Daredevil Social Network Graph</a> 
 </h3>
 
