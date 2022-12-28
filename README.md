@@ -24,7 +24,7 @@ I am from East Side San Jose, California and am a first generation student. Belo
     <a href="https://github.com/quoc-huynh/quoc-huynh.github.io/tree/main/Transportation_Project">Bureau of Transportation Statistics Group Project</a> 
 </h3>
 
-![Test](Images/Recording 2022-12-27 at 18.52.46.gif)
+![Test](Images/bts.gif)
 
 <br> 
 
