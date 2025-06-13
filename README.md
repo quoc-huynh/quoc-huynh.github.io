@@ -1,7 +1,7 @@
 ## Welcome to my page!
-Hi! Thank you for checking out my page. My name is Quoc Huynh and I graduated from UC Berkeley in 2022 with a BA in Data Science and am now currently pursuing my MS in Statistical Data Science/Statistics. I am also working at the Texas Legislative Budget Board working within Article 5. Below are some of my highlighted personal and group projects and professional work that you can check out! Some of my personal interests include [Marvel's Daredevil](https://www.marvel.com/characters/daredevil-matthew-murdock), [The Arctic Monkeys](https://www.arcticmonkeys.com/), [Soccer](https://www.liverpoolfc.com/), and [Art](https://www.claudemonetgallery.org/the-complete-works.html?pageno=1)! 
+Hi! Thank you for checking out my page. My name is Quoc Huynh and I graduated from UC Berkeley in 2022 with a BA in Data Science and am now currently pursuing my MS in Statistical Data Science/Statistics. I am also working at the Texas Legislative Budget Board working within Article 5. Below are some of my highlighted personal, academic, and professional work that you can check out! Some of my personal interests include [Marvel's Daredevil](https://www.marvel.com/characters/daredevil-matthew-murdock), [The Arctic Monkeys](https://www.arcticmonkeys.com/), [Soccer](https://www.liverpoolfc.com/), and [Art](https://www.claudemonetgallery.org/the-complete-works.html?pageno=1)! 
 
-<p>Feel free to contact me @ quoc.huynh@tamu.edu for anything!</p>
+<p>Feel free to contact me at quoc.huynh@tamu.edu for anything!</p>
 
 <br>
 
