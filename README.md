@@ -5,7 +5,15 @@ Hi! Thank you for checking out my page. My name is Quoc Huynh and I graduated fr
 
 <br>
 
-## Some Of My Highlighted Projects
+## Some Of My Highlighted Work
+
+<br> 
+
+<h3 align = "center">
+    <a href="https://www.lbb.texas.gov/Documents/Publications/Policy_Report/8746_Juvenile_Justice_report.pdf">My Testimony On Juvenile Population Projections At The Senate Finance Commitee Hearing During The Texas 89th Legislative Session (3:38:30)</a> 
+</h3>
+
+![Testify](Images/Q_Testify.JPG)
 
 <br> 
 
