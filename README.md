@@ -10,7 +10,7 @@ Hi! Thank you for checking out my page. My name is Quoc Huynh and I graduated fr
 <br> 
 
 <h3 align = "center">
-    <a href="https://www.lbb.texas.gov/Documents/Publications/Policy_Report/8746_Juvenile_Justice_report.pdf">My Testimony On Juvenile Population Projections At The Senate Finance Commitee Hearing During The Texas 89th Legislative Session (3:38:30)</a> 
+    <a href="https://senate.texas.gov/videoplayer.php?vid=21094&lang=en">My testimony on Juvenile Population Projections during The 89th Texas Legislative Session (3:38:30)</a> 
 </h3>
 
 ![Testify](Images/Q_Testify.png)
