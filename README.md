@@ -64,8 +64,3 @@ on Juvenile Justice Populations</a>
 
 <br>
 
-<p align="center">
-  You can also check out my other projects at my
-  <a href="https://github.com/quoc-huynh/PersonalProjects">github!</a>
-</p>
-     
